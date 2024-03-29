@@ -1,5 +1,5 @@
 # dot2-x-touch
 
-working in progress
+work in progress...
 ------
-![](https://youtu.be/5vd4PM6W71Y)
+[![First Look](https://i.ytimg.com/vi/5vd4PM6W71Y/hqdefault.jpg)](https://youtu.be/5vd4PM6W71Y)
